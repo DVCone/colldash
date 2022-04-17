@@ -1,3 +1,5 @@
+![preview.jpg](https://github.com/DVCone/colldash/blob/main/preview.png)
+
 # CollDash
 
 Hi, Thank you for Comming ;D
