@@ -37,6 +37,6 @@ If you want re-create and re-wrote this project, I hope you can find more what I
 ## Credit :
 I will credit all who's my Inspiration in this project bellow, so make sure you also check their profile later.
 
-+ First Coded by RetroPortal Studio : [Watch Now](https://www.youtube.com/watch?v=IqFP7jY_enc).
++ First Coded by Abdul Aziz Ahwan : [Watch Now](https://www.youtube.com/watch?v=IqFP7jY_enc).
 
 + Icons by Kiranshastry : [See Now](https://www.flaticon.com/packs/school-79/2).
