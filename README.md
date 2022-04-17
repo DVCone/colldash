@@ -35,7 +35,7 @@ If you want re-create and re-wrote this project, I hope you can find more what I
 > See and Download my code on **[GitHub](https://github.com/DVCone/colldash)**.
 
 ## Credit :
-This design ISN'T my original design, also the original code ISN'T from me. I will credit all who's my Inspiration in this project bellow, so make sure you also check their profile later.
+I will credit all who's my Inspiration in this project bellow, so make sure you also check their profile later.
 
 + First Coded by RetroPortal Studio : [Watch Now](https://www.youtube.com/watch?v=IqFP7jY_enc).
 
